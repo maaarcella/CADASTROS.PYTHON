@@ -1,4 +1,4 @@
-Sistema de Cadastro e Controle de Produtos em Python
+# Sistema de Cadastro e Controle de Produtos em Python
 
 Este projeto consiste em um sistema simples de cadastro e gerenciamento de produtos desenvolvido em Python. O objetivo é permitir o armazenamento e a organização de informações de produtos por meio de um menu interativo executado no terminal.
 
