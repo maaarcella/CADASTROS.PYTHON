@@ -47,15 +47,15 @@ Este projeto representa uma aplicação prática dos conceitos básicos de Pytho
 
     while opcao != 4:
 
-    print("------MENU------")
-    print("1 - Cadastrar produtos")
-    print("2 - Listar produtos")
-    print("3 - Excluir produtos")
-    print("4 - Sair do sistema")
-    print("5 - Alterar cadastro")
-    print("6 - Venda de produto")
+        print("------MENU------")
+        print("1 - Cadastrar produtos")
+        print("2 - Listar produtos")
+        print("3 - Excluir produtos")
+        print("4 - Sair do sistema")
+        print("5 - Alterar cadastro")
+        print("6 - Venda de produto")
 
-    opcao = int(input("Escolha sua opção: "))
+        opcao = int(input("Escolha sua opção: "))
 
     if opcao == 1:
 
